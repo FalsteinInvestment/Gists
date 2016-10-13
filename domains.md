@@ -11,3 +11,9 @@
 > fi.tld
 
 > falsteininvestment.tld
+
+## .tlds
+
+> .fii
+
+> .fiinc
